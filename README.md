@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan Martinez Cadena
 - 👀 I’m interested in new technologies and development with .net/c/c++ 
-- 🌱 I’m currently learning Microservices with .net 6 
+- 🌱 I’m currently improving my technical skills learning Design Patterns with C++ and start working on Open Source projects.
 - 📫 How to reach me ivancadena98@outlook.com
 
 <!---
